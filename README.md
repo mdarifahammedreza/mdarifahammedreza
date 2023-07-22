@@ -1,6 +1,7 @@
 ![Profile Picture](https://github.com/mdarifahammedreza/mdarifahammedreza/blob/main/coding-typing.gif?raw=true)
 
 # 💫 About Me:
+🤗🤗call me by "reza"
 I'm a passionate Software Engineer with a love for ML & AI. I'm always eager to learn and explore new ideas, and I believe in the power of open-source collaboration to drive innovation.
 
 🚀 What I'm Working On:
@@ -67,7 +68,7 @@ About Me<br>I'm a passionate Software Engineer with a love for ML & AI. I'm alwa
 <div align="center">
   <img src="https://github.com/mdarifahammedreza/mdarifahammedreza/blob/main/Blue%20Illustrated%20World%20Water%20Day%20Facebook%20Fundraiser%20Cover%20Photo.png?raw=true">
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ Proudly created with GPRM ( https://gprm.itsvg.in ) 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reza412200) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdarifhammedreza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdarifahammedreza)
 
@@ -132,5 +133,5 @@ About Me<br>I'm a passionate Software Engineer with a love for ML & AI. I'm alwa
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/reza4122003) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> --> -->
 
