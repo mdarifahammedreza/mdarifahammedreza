@@ -1,7 +1,12 @@
+![Profile Picture](https://github.com/mdarifahammedreza/mdarifahammedreza/blob/main/coding-typing.gif?raw=true)
+
+
 # 💫 About Me:
 About Me<br>I'm a passionate Software Engineer with a love for ML & AI. I'm always eager to learn and explore new ideas, and I believe in the power of open-source collaboration to drive innovation.<br><br>🚀 What I'm Working On<br>Currently, I'm focused on ML. I'm actively learning Python,Java, and I'm excited to share my progress here on GitHub.<br><br>🌱 I’m Currently Learning<br>I'm dedicated to expanding my knowledge in Machine learning. Some of the technologies I'm diving into include Numpy,pandas and other algorithom.<br><br>📫 How to Reach Me<br>Feel free to connect with me on LinkedIn or Twitter. You can also check out my personal website www.yourwebsite.com for more information.<br><br>💬 Ask Me About<br>If you have any questions or need help with [specific expertise or areas], don't hesitate to reach out. I'm always up for a good coding discussion or brainstorming session!<br><br>⚡ Fun Fact<br>In my spare time, I enjoy by passing time with friends. It's essential to strike a balance between work and play!<br><br><br>Thanks for stopping by my GitHub! Feel free to explore my repositories and don't forget to leave a ⭐️ if you find something interesting!
 
-
+<div align="center">
+  <img src="https://github.com/mdarifahammedreza/mdarifahammedreza/blob/main/Blue%20Illustrated%20World%20Water%20Day%20Facebook%20Fundraiser%20Cover%20Photo.png?raw=true">
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/reza412200) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdarifahammedreza) 
