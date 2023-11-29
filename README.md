@@ -11,7 +11,7 @@ Currently, I'm focused on ML. I'm actively learning Python, Java, and I'm excite
 I'm dedicated to expanding my knowledge in Machine learning. Some of the technologies I'm diving into include Numpy, pandas, and other algorithms.
 
 📫 How to Reach Me:
-Feel free to connect with me on LinkedIn or Twitter. You can also check out my personal website www.yourwebsite.com for more information.
+Feel free to connect with me on LinkedIn or Twitter. You can also check out my personal website www.arifahammedreza.xyz for more information.
 
 💬 Ask Me About:
 If you have any questions or need help with specific expertise or areas, don't hesitate to reach out. I'm always up for a good coding discussion or brainstorming session!
