@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdarifahammedreza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
 ![Profile Picture](https://github.com/mdarifahammedreza/mdarifahammedreza/blob/main/coding-typing.gif?raw=true)
 
 
