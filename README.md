@@ -3,7 +3,7 @@
   <br />
   <img src="https://github.com/mdarifahammedreza/mdarifahammedreza/blob/main/coding-typing.gif?raw=true" width="450" alt="Coding GIF" />
   <h1>Hi, I'm Md Arif Ahammed Reza 👋</h1>
-  <h3>Senior Software Engineer | Backend Architect | DevOps & AI Engineer</h3>
+  <h3>Software Engineer | DevOps Teaching Assistant @ Ostad | Backend (Node.js, Golang) | Frontend (Next.js, Vite)</h3>
   <p>Building high-performance, resilient distributed systems, automated cloud architectures, and agentic AI systems.</p>
 </div>
 
@@ -179,6 +179,9 @@ I thrive on solving complex system bottlenecks, automating server configurations
 ### 📊 Google
 * **Google Data Analytics Professional Certificate** (2024)
 
+### 🎓 Apna College
+* **Certificate of Completion:** Alpha (DSA with Java)
+
 ### 🎖️ GoEdu *(Completed with Distinction)*
 * Become and Make A Leader | Leadership Qualities
 * Goal Setting and Achievement | Positivity and Mentality Building
@@ -197,13 +200,13 @@ I thrive on solving complex system bottlenecks, automating server configurations
 ## 📊 GitHub Analytics
 
 ### GitHub Stats
-[![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdarifahammedreza&show_icons=true&theme=radical&count_private=true)](https://github.com/mdarifahammedreza)
+[![Arif's GitHub Stats](https://github-stats-extended.vercel.app/api?username=mdarifahammedreza&show_icons=true&theme=radical&count_private=true)](https://github.com/mdarifahammedreza)
 
 ### Streak Stats
 [![Arif's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mdarifahammedreza&theme=radical)](https://github.com/mdarifahammedreza)
 
 ### Top Languages
-[![Arif's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdarifahammedreza&layout=compact&theme=radical)](https://github.com/mdarifahammedreza)
+[![Arif's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=mdarifahammedreza&layout=compact&theme=radical)](https://github.com/mdarifahammedreza)
 
 ### Contribution Graph
 [![Arif's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdarifahammedreza&theme=radical)](https://github.com/mdarifahammedreza)
