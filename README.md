@@ -124,13 +124,6 @@ I thrive on solving complex system bottlenecks, automating server configurations
 * **Student Mentorship:** Provided live troubleshooting and debug support to guide students through production-like deployment challenges.
 * *Technologies:* AWS, Docker, Jenkins, Git, Linux, CI/CD.
 
-### 💻 **Freelance Full Stack Developer**
-*Independent Software Engineer* | **2024 - Present**
-* **Product Delivery:** Engineered interactive interfaces and web applications using the MERN stack with modern responsive principles.
-* **Real-time Infrastructure:** Developed low-latency event synchronization modules using Socket.IO for real-time customer engagement.
-* **API Integrations:** Built secure API architectures, handled complex third-party system integrations, and optimized relational/non-relational schemas.
-* *Technologies:* React, Next.js, Node.js, Express.js, MongoDB, Socket.IO, TypeScript.
-
 ### 🏢 **Excel Technologies Ltd**
 *Junior Software Engineer* | **Sep 2025 - Jan 2026**
 * **Backend Systems:** Programmed transactional APIs and core microservices in NestJS following clean architecture constraints.
@@ -141,6 +134,11 @@ I thrive on solving complex system bottlenecks, automating server configurations
 ---
 
 ## 🛠️ Featured Projects
+
+### 📅 [Routine Tracker](https://routine.arifahammedreza.com.bd/login) ([Observability](https://observability.arifahammedreza.com.bd/d/afqq2ocuvmscgd/unified-server-observability-dashboard?orgId=1&from=1783144972220&to=1783148572220) | Credentials: `admin` / `adminpassword123`)
+*Personal productivity and schedule tracking platform with integrated real-time system monitoring.*
+* **Engineering Challenge:** Monitoring system state, resource usage, and traffic patterns under concurrent task executions. Resolved by designing a unified server observability dashboard to monitor server metrics, active logins, database health, and log events.
+* **Tech Stack:** React, Next.js, Node.js, Express.js, MongoDB, Prometheus, Grafana, Loki.
 
 ### 💳 [Fintech NovaPay](https://github.com/mdarifahammedreza/fintech-nova-pay)
 *Event-driven financial platform guaranteeing transactional consistency and high-throughput communication.*
