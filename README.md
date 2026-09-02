@@ -3,7 +3,12 @@
   <br />
   <img src="https://github.com/mdarifahammedreza/mdarifahammedreza/blob/main/coding-typing.gif?raw=true" width="450" alt="Coding GIF" />
   <h1>Hi, I'm Md Arif Ahammed Reza 👋</h1>
-  <h3>Software Engineer | DevOps Teaching Assistant @ Ostad | Backend (Node.js, Golang) | Frontend (Next.js, Vite)</h3>
+<h3>
+  Software Engineer @ <a href="https://github.com/danumai">Danumai</a> |
+  DevOps Teaching Assistant @ Ostad |
+  Backend (Node.js, Golang) |
+  Frontend (Next.js, Vite)
+</h3>
   <p>Building high-performance, resilient distributed systems, automated cloud architectures, and agentic AI systems.</p>
 </div>
 
