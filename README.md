@@ -6,7 +6,7 @@
 <h3>
   Software Engineer @ <a href="https://github.com/danumai">Danumai</a> |
   DevOps Teaching Assistant @ Ostad |
-  Backend (Node.js, Golang) |
+  Backend (Nest.js, Golang) |
   Frontend (Next.js, Vite)
 </h3>
   <p>Building high-performance, resilient distributed systems, automated cloud architectures, and agentic AI systems.</p>
